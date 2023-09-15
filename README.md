@@ -1,2 +1,2 @@
 # EJERCICIO GRUPAL CLASE 26
-## Aca estuvo trabajando Johana
+## modificando el readme
